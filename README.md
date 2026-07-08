@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, Ionic, JS/TS**
 
-- 📬 How to reach me **maxim.kim.dev@outlook.com**
+- 📬 How to reach me **kim.maxim.dev@outlook.com**
 
 - ⚡ Fun fact about me **I collect matchbooks 🗃**
 
