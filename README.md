@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">Angular developer from Ukraine :ukraine:. I am enthusiastic about the prospect of leveraging my skills</h3>
+<h3 align="center">Software developer from Ukraine :ukraine:. I am enthusiastic about the prospect of leveraging my skills</h3>
 
 - 🤓 I’m currently learning **Node.js, Nest.js, Docker and Kubernete**
 
